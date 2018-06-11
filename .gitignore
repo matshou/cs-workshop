@@ -1,2 +1,6 @@
 # Ignore workspace folder used for WIP content
 /Workspace
+*.bphys
+*.gz
+*.mtl
+*.blend1
