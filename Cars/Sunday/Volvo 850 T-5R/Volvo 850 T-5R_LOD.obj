@@ -1,4 +1,4 @@
-# Blender v2.79 (sub 0) OBJ File: 'sunday-cars.blend'
+# Blender v2.79 (sub 7) OBJ File: 'Volvo 850 T-5R.blend'
 # www.blender.org
 mtllib Volvo 850 T-5R_LOD.mtl
 o Volvo_850_T-5R_LOD_volvo-850-t-sr_lod
@@ -135,7 +135,7 @@ vn -0.0589 0.2041 -0.9772
 vn -0.0441 0.3465 -0.9370
 vn -0.9984 0.0419 0.0372
 vn -0.9977 0.0616 0.0292
-usemtl Volvo_850_T-SR_LOD
+usemtl Volvo_850_T-SR_(LOD)
 s 1
 f 1/1/1 2/2/2 3/3/3
 f 2/2/2 1/1/1 4/4/4

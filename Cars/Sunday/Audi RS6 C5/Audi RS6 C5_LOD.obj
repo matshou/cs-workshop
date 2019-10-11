@@ -1,4 +1,4 @@
-# Blender v2.79 (sub 0) OBJ File: 'sunday-cars.blend'
+# Blender v2.79 (sub 7) OBJ File: 'Audi RS6 C5.blend'
 # www.blender.org
 mtllib Audi RS6 C5_LOD.mtl
 o Audi_RS6_C5_LOD_audi_rs6_c5_lod
@@ -201,7 +201,7 @@ vn 0.5316 0.8084 -0.2527
 vn -0.9876 -0.1076 0.1141
 vn -0.7529 0.0337 -0.6573
 vn -0.0712 0.9975 0.0053
-usemtl Audi_RS6_C5_LOD
+usemtl Audi_RS6_C5_(LOD)
 s 1
 f 1/1/1 2/2/2 3/3/3
 f 3/3/3 4/4/4 5/5/5

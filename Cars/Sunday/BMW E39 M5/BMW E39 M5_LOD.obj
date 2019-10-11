@@ -1,4 +1,4 @@
-# Blender v2.79 (sub 0) OBJ File: 'sunday-cars.blend'
+# Blender v2.79 (sub 7) OBJ File: 'BMW E39 M5.blend'
 # www.blender.org
 mtllib BMW E39 M5_LOD.mtl
 o BMW_E39_M5_LOD_bmw_e39_m5_lod
@@ -198,7 +198,7 @@ vn -0.9984 -0.0554 -0.0119
 vn -0.9663 0.0562 -0.2514
 vn -0.9469 0.2344 -0.2201
 vn -0.9930 0.0424 0.1106
-usemtl BMW_E39_M5_LOD
+usemtl BMW_E39_M5_(LOD)
 s 1
 f 1/1/1 2/2/2 3/3/3
 f 2/2/2 1/1/1 4/4/4

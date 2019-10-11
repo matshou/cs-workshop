@@ -1,4 +1,4 @@
-# Blender v2.79 (sub 0) OBJ File: 'sunday-cars.blend'
+# Blender v2.79 (sub 7) OBJ File: 'Renault Megane II.blend'
 # www.blender.org
 mtllib Renault Megane II_LOD.mtl
 o Renault_Megane_II_LOD_renault_megane_II_lod
@@ -129,7 +129,6 @@ vn -0.9368 0.3431 0.0682
 vn -0.9273 0.3738 -0.0201
 vn -0.9141 0.4046 -0.0268
 vn -0.9551 0.2688 0.1247
-usemtl Renault_Megane_II_LOD
 vn 0.3510 0.2656 -0.8979
 vn 0.3217 0.5614 -0.7624
 vn 0.3571 0.4367 -0.8257
@@ -156,6 +155,7 @@ vn 0.9141 0.4046 -0.0268
 vn 0.9273 0.3738 -0.0201
 vn 0.9368 0.3431 0.0682
 vn 0.9551 0.2688 0.1247
+usemtl Renault_Megane_II_(LOD)
 s 1
 f 1/1/1 3/2/2 2/3/3
 f 2/3/3 4/4/4 1/1/1

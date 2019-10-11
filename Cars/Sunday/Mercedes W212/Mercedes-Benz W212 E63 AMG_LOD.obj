@@ -1,4 +1,4 @@
-# Blender v2.79 (sub 0) OBJ File: 'sunday-cars.blend'
+# Blender v2.79 (sub 7) OBJ File: 'Mercedes-Benz W212 E63 AMG.blend'
 # www.blender.org
 mtllib Mercedes-Benz W212 E63 AMG_LOD.mtl
 o Mercedes-Benz_W212_E63_AMG_LOD_mercedes-w212_lod
@@ -149,7 +149,7 @@ vn -0.9909 0.0968 -0.0940
 vn -0.9959 0.0626 -0.0659
 vn -0.9997 -0.0023 -0.0243
 vn -0.1875 0.1545 -0.9700
-usemtl Mercedes-Benz_W212_E63_AMG_LOD.001
+usemtl Mercedes-Benz_W212_E63_(LOD)
 s 1
 f 1/1/1 2/2/2 3/3/3
 f 2/2/2 1/1/1 4/4/4

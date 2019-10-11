@@ -1,4 +1,4 @@
-# Blender v2.79 (sub 0) OBJ File: 'sunday-cars.blend'
+# Blender v2.79 (sub 7) OBJ File: 'Volkswagen Passat B5.blend'
 # www.blender.org
 mtllib Volkswagen Passat B5_LOD.mtl
 o Volkswagen_Passat_B5_LOD_vw_passat_b5_lod
@@ -201,7 +201,7 @@ vn 0.7175 -0.1228 0.6857
 vn 0.7401 -0.1967 0.6431
 vn 0.7018 -0.0795 0.7079
 vn 0.7452 0.1520 0.6492
-usemtl Volkswagen_Passat_B5_LOD
+usemtl Volkswagen_Passat_B5_(LOD)
 s 1
 f 1/1/1 2/2/2 3/3/3
 f 2/2/2 1/1/1 4/4/4

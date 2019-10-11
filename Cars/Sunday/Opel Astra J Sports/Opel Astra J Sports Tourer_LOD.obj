@@ -1,4 +1,4 @@
-# Blender v2.79 (sub 0) OBJ File: 'sunday-cars.blend'
+# Blender v2.79 (sub 7) OBJ File: 'Opel Astra J Sports.blend'
 # www.blender.org
 mtllib Opel Astra J Sports Tourer_LOD.mtl
 o Opel_Astra_J_Sports_Tourer_LOD_opel_astra_j_sports_tourer_lod
@@ -173,7 +173,7 @@ vn -0.2364 0.5331 -0.8124
 vn -0.4622 0.1688 -0.8706
 vn -0.9286 0.1129 -0.3535
 vn 0.7219 0.5649 -0.3998
-usemtl Opel_Astra_J_Sports_Tourer_LOD
+usemtl Opel_Astra_J_Sports_Tourer_(LOD)
 s 1
 f 1/1/1 36/2/2 2/3/3 3/4/4
 f 2/5/5 39/6/6 40/7/7 5/8/7

@@ -1,4 +1,4 @@
-# Blender v2.79 (sub 0) OBJ File: 'sunday-cars.blend'
+# Blender v2.79 (sub 7) OBJ File: 'Citroen C1.blend'
 # www.blender.org
 mtllib Citroen C1_LOD.mtl
 o Citroen_C1_LOD_citroen_c1_lod
@@ -140,7 +140,7 @@ vn -0.3048 0.1305 0.9434
 vn -0.9993 0.0341 0.0145
 vn -0.9998 -0.0155 0.0080
 vn -1.0000 -0.0018 0.0053
-usemtl Citroen_C1_LOD
+usemtl Citroen_C1_(LOD)
 s 1
 f 1/1/1 2/2/2 3/3/3
 f 2/2/2 1/1/1 4/4/4

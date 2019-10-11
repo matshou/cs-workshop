@@ -1,4 +1,4 @@
-# Blender v2.79 (sub 0) OBJ File: 'sunday-cars.blend'
+# Blender v2.79 (sub 7) OBJ File: 'Mercedes-Benz W210.blend'
 # www.blender.org
 mtllib Mercedes-Benz W210_LOD.mtl
 o Mercedes-Benz_W210_LOD_mercedes-w210_lod
@@ -183,7 +183,7 @@ vn -0.1976 -0.1882 0.9620
 vn -0.9951 0.0987 -0.0058
 vn -0.9999 -0.0125 0.0118
 vn -0.9842 -0.1708 0.0465
-usemtl Mercedes-Benz_W210_LOD
+usemtl Mercedes-Benz_W210_(LOD)
 s 1
 f 1/1/1 2/2/2 3/3/3
 f 2/2/2 1/1/1 4/4/4

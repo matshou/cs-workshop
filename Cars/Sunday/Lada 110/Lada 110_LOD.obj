@@ -1,4 +1,4 @@
-# Blender v2.79 (sub 0) OBJ File: 'sunday-cars.blend'
+# Blender v2.79 (sub 7) OBJ File: 'Lada 110.blend'
 # www.blender.org
 mtllib Lada 110_LOD.mtl
 o Lada_110_LOD_lada_110_lod
@@ -182,7 +182,7 @@ vn -0.1099 0.1725 -0.9789
 vn -0.0969 0.2392 -0.9661
 vn -0.1935 -0.1863 0.9632
 vn -0.2020 -0.1676 0.9649
-usemtl Lada_110_LOD
+usemtl Lada_110_(LOD)
 s 1
 f 1/1/1 2/2/2 3/3/3
 f 2/2/2 1/1/1 4/4/4

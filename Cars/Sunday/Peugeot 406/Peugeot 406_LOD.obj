@@ -1,4 +1,4 @@
-# Blender v2.79 (sub 0) OBJ File: 'sunday-cars.blend'
+# Blender v2.79 (sub 7) OBJ File: 'Peugeot 406.blend'
 # www.blender.org
 mtllib Peugeot 406_LOD.mtl
 o Peugeot_406_LOD_peugeot_406_lod
@@ -161,7 +161,7 @@ vn -0.1275 0.8719 0.4727
 vn -0.8895 0.4569 0.0016
 vn -0.9911 -0.1100 -0.0749
 vn -0.0959 -0.2205 -0.9707
-usemtl Peugeot_406_LOD
+usemtl Peugeot_406_(LOD)
 s 1
 f 1/1/1 2/2/2 3/3/3
 f 4/4/4 3/3/3 2/2/2

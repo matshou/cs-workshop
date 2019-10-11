@@ -1,4 +1,4 @@
-# Blender v2.79 (sub 0) OBJ File: 'sunday-cars.blend'
+# Blender v2.79 (sub 7) OBJ File: 'Renault Laguna I.blend'
 # www.blender.org
 mtllib Renault Laguna I_LOD.mtl
 o Renault_Laguna_I_LOD_renault_laguna_i_lod
@@ -173,7 +173,7 @@ vn -0.8489 0.5215 -0.0855
 vn -0.8530 0.5209 -0.0312
 vn -0.9072 0.4204 0.0164
 vn -0.9098 0.4149 -0.0063
-usemtl Renault_Laguna_I_LOD
+usemtl Renault_Laguna_I_(LOD)
 s 1
 f 1/1/1 2/2/2 3/3/3
 f 2/2/2 1/1/1 4/4/4

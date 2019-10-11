@@ -1,4 +1,4 @@
-# Blender v2.79 (sub 0) OBJ File: 'sunday-cars.blend'
+# Blender v2.79 (sub 7) OBJ File: 'Škoda Yeti.blend'
 # www.blender.org
 mtllib Škoda Yeti.mtl
 o Skoda_Yeti_skoda_yeti
@@ -6977,7 +6977,7 @@ vn -0.4877 -0.7413 0.4610
 vn -0.0341 -0.7672 0.6405
 vn -0.0802 -0.5960 0.7990
 vn -0.1212 -0.8583 -0.4987
-usemtl Skoda_Yeti.001
+usemtl Skoda_Yeti_(Main)
 s 1
 f 1/1/1 2/2/2 3/3/3
 f 2/2/2 1/1/1 4/4/4

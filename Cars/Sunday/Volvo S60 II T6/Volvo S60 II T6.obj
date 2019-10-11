@@ -1,4 +1,4 @@
-# Blender v2.79 (sub 0) OBJ File: 'sunday-cars.blend'
+# Blender v2.79 (sub 7) OBJ File: 'Volvo S60 II T6.blend'
 # www.blender.org
 mtllib Volvo S60 II T6.mtl
 o Volvo_S60_II_T6_volvo_s60_2_t6
@@ -5791,7 +5791,7 @@ vn -0.9005 0.4330 0.0391
 vn 0.8980 0.4394 0.0240
 vn 0.8910 0.4539 -0.0009
 vn 0.8746 0.4817 0.0544
-usemtl Volvo_S60_II_T6
+usemtl Volvo_S60_II_T6_(Main)
 s 1
 f 1/1/1 2/2/2 3/3/3
 f 2/2/2 1/1/1 4/4/4
