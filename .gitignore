@@ -4,3 +4,10 @@
 *.gz
 *.mtl
 *.blend1
+
+# Ignore Win dir thumbnail cache
+Thumbs.db
+
+# Ignore project files
+*.xcf
+*.blend
