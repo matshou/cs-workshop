@@ -1,3 +1,6 @@
+#Ignore meta data files
+*.meta
+
 # Ignore project files
 Sunday/**/*.xcf
 Sunday/**/*.blend
