@@ -10,11 +10,14 @@ fi
 while read dir; do
 if [ -d "$dir" ]
 then
+	target=$app_data/$local_dir
 	for file in "$dir"/*_[acdins].png; do
-		cp "$file" "$app_data/$local_dir"
+		echo "Copying $file..."
+		cp "$file" "$target"
 	done
 	for file in "$dir"/*.obj; do
-		cp "$file" "$app_data/$local_dir"
+		echo "Copying $file..."
+		cp "$file" "$target"
 	done
 fi
 n=$((n+1))
