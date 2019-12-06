@@ -1,5 +1,6 @@
 #!/bin/bash
-target=Projects
+target="/Projects"
+mkdir -p $target
 echo "Copying xcf project files..."
 find Sunday -name '*.xcf' -exec cp --parents {} $target \;
 echo "Copying blend project files..."
