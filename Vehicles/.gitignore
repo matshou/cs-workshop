@@ -1,5 +1,5 @@
-#Ignore meta data files
-*.meta
+#Ignore internal data files
+*.data
 
 # Ignore project files
 Projects/*

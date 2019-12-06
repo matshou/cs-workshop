@@ -1,24 +1,10 @@
 #!/bin/bash
-local_dir="Local/Colossal Order/Cities_Skylines/Addons/Import/"
-app_data=$(head -1 app_data.meta)
-n=1
-if [ -z "$app_data" ] || [ $app_data == "" ]
+imports_file="imports_path.data"
+path_data=$(head -1 $imports_file)
+if [ ! -f "$imports_file" ] || [ "$path_data" == "" ]
 then
-	echo "Unable to find app data meta info."
+	echo "ERROR: Missing imports path data."
 	exit 1
 fi
-while read dir; do
-if [ -d "$dir" ]
-then
-	target=$app_data/$local_dir
-	for file in "$dir"/*_[acdins].png; do
-		echo "Copying $file..."
-		cp "$file" "$target"
-	done
-	for file in "$dir"/*.obj; do
-		echo "Copying $file..."
-		cp "$file" "$target"
-	done
-fi
-n=$((n+1))
-done < vehicle_assets.txt
+find Sunday -name '*_[acdins].png' -exec echo "Copying {}" \; -exec cp {} "$path_data" \;
+find Sunday -name '*.obj' -exec echo "Copying {}" \; -exec cp {} "$path_data" \;
