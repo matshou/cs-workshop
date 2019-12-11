@@ -1,6 +1,6 @@
 # Blender v2.79 (sub 7) OBJ File: 'Mazda Demio.blend'
 # www.blender.org
-mtllib Mazda 2 Demio_lod.mtl
+mtllib Mazda Demio_LOD.mtl
 o Mazda_Demio_LOD_mazda_demio_lod
 v 0.533880 1.425924 0.018631
 v 0.459643 0.238469 1.866113

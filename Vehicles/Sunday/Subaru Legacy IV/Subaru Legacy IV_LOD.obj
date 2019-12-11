@@ -1,6 +1,6 @@
 # Blender v2.79 (sub 7) OBJ File: 'Subaru Legacy IV.blend'
 # www.blender.org
-mtllib Subaru Legacy IV_lod.mtl
+mtllib Subaru Legacy IV_LOD.mtl
 o Subaru_Legacy_IV_LOD_subaru_legacy_iv_lod
 v 0.668007 1.050864 -1.693853
 v 0.581793 1.015407 -2.167723
@@ -212,7 +212,7 @@ vn -0.9974 0.0695 0.0161
 vn -0.9786 0.1899 0.0791
 vn -0.8527 0.5202 0.0482
 vn -0.8550 0.5100 0.0940
-usemtl None
+usemtl Subaru_Legacy_IV_(LOD)
 s 1
 f 4/1/1 1/2/2 2/3/3
 f 1/2/2 4/1/1 10/4/4
